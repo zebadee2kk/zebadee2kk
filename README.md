@@ -1,33 +1,44 @@
-# 👋 Hi, I'm zebadee2kk
+# Hi, I'm zebadee2kk 👋
 
-### 🚀 Architecting Efficiency & AI-First Systems
-I'm a developer and tech architect focused on building high-leverage tools that accelerate development and optimize costs. My current obsession is maximizing AI utility while minimizing token burn.
+**Developer & technical architect building AI-first systems that optimize for speed, quality, and cost.**
 
----
-
-### 🛠️ Current Focus: **[Project Lodestar](https://github.com/zebadee2kk/ProjectLodestar)**
-> **AI development environment with 90% cost savings.** 
-> Routing between 8 LLM providers while defaulting to FREE local models. Production-ready with automated testing.
+[![GitHub followers](https://img.shields.io/github/followers/zebadee2kk?style=for-the-badge)](https://github.com/zebadee2kk?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=zebadee2kk&style=for-the-badge)](https://github.com/zebadee2kk)
 
 ---
 
-### 🧰 Tech Stack & Tools
-- **Languages**: Python, JavaScript/TypeScript, Shell
-- **AI Infrastructure**: Ollama, LiteLLM, DeepSeek, Llama
-- **Efficiency Core**: Dev Containerization, Automated Playbooks, Cost Routing
+## 🚀 Current Focus
+
+### [Project Lodestar](https://github.com/zebadee2kk/ProjectLodestar)
+AI development environment designed for significant cost reduction through smart model routing:
+- Routes across multiple LLM providers
+- Defaults to free/local models when possible
+- Built with automated testing and production-readiness in mind
 
 ---
 
-### 📊 GitHub Stats
-![zebadee2kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=zebadee2kk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zebadee2kk&layout=compact&theme=radical)
+## 🧰 Core Stack
+
+- **Languages:** Python, JavaScript/TypeScript, Shell
+- **AI Tooling:** Ollama, LiteLLM, DeepSeek, Llama
+- **Engineering Priorities:** Dev containers, automation playbooks, and cost-aware architecture
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) <!-- Update placeholder -->
-- 🐦 [Twitter/X](https://twitter.com/YOUR_HANDLE) <!-- Update placeholder -->
+## 📈 GitHub Metrics
+
+![GitHub stats for zebadee2kk](https://github-readme-stats.vercel.app/api?username=zebadee2kk&show_icons=true&theme=radical&hide_border=true)
+![Top languages for zebadee2kk](https://github-readme-stats.vercel.app/api/top-langs/?username=zebadee2kk&layout=compact&theme=radical&hide_border=true)
+
+> If these cards are temporarily unavailable, GitHub API rate limits are usually the cause.
 
 ---
 
-*"Move fast, but build the playbook so you don't have to move the same way twice."*
+## 🤝 Connect
+
+- GitHub: [@zebadee2kk](https://github.com/zebadee2kk)
+- Project discussions/issues: [Open an issue](https://github.com/zebadee2kk/zebadee2kk/issues)
+
+---
+
+> *Move fast, but build the playbook so you don't have to move the same way twice.*
