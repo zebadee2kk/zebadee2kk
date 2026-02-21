@@ -25,15 +25,6 @@ AI development environment designed for significant cost reduction through smart
 
 ---
 
-## 📈 GitHub Metrics
-
-![GitHub stats for zebadee2kk](https://github-readme-stats.vercel.app/api?username=zebadee2kk&show_icons=true&theme=radical&hide_border=true)
-![Top languages for zebadee2kk](https://github-readme-stats.vercel.app/api/top-langs/?username=zebadee2kk&layout=compact&theme=radical&hide_border=true)
-
-> If these cards are temporarily unavailable, GitHub API rate limits are usually the cause.
-
----
-
 ## 🤝 Connect
 
 - GitHub: [@zebadee2kk](https://github.com/zebadee2kk)
