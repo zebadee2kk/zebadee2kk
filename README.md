@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Richard (a.k.a. ☆zebadee2kk☆)
+# 👋 Hi, I'm ☆zebadee2kk☆
 
 I build and orchestrate intelligent systems that bring **AI,
 security and operational tooling together** – from scalable LLM
@@ -28,9 +28,9 @@ pipelines to vaults for sensitive data.
 
 ### 📫 Find me elsewhere
 
-- Twitter / X: [@richardh](https://twitter.com/richardh)  
-- Mastodon: `@richardh@fosstodon.org`  
-- Blog: <https://rham.dev>  
+- Twitter / X: tbc  
+- Mastodon: 
+- Blog: tbc
 
 ---
 
