@@ -1,35 +1,40 @@
-# Hi, I'm zebadee2kk 👋
+# 👋 Hi, I'm Richard (a.k.a. ☆zebadee2kk☆)
 
-**Developer & technical architect building AI-first systems that optimize for speed, quality, and cost.**
+I build and orchestrate intelligent systems that bring **AI,
+security and operational tooling together** – from scalable LLM
+pipelines to vaults for sensitive data.
 
-[![GitHub followers](https://img.shields.io/github/followers/zebadee2kk?style=for-the-badge)](https://github.com/zebadee2kk?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=zebadee2kk&style=for-the-badge)](https://github.com/zebadee2kk)
+- ⚙️ **Current focus**
+  - `secure-claude-orchestrator`: a production-grade controller for
+    Claude-style models
+  - `project-echo-vault-local` & `idea-vault`: local encrypted repositories
+    for confidential planning and brainstorming
+  - `life-security-architecture`: the security architecture that underpins
+    my OSS/consulting work
 
----
+- 🤖 **AI / XAI**
+  - `xai-sdk-python-fork` – an extension of the explainable‑AI SDK
+  - `ai-powertools` – reusable building blocks for AI-infused automation
 
-## 🚀 Current Focus
+- 💼 **Templates & tooling**
+  - `best-practice-repo-template` – a boilerplate for reusable projects
+  - `hosting-ops` – utility scripts and Ansible roles for self‑hosting
 
-### [Project Lodestar](https://github.com/zebadee2kk/ProjectLodestar)
-AI development environment designed for significant cost reduction through smart model routing:
-- Routes across multiple LLM providers
-- Defaults to free/local models when possible
-- Built with automated testing and production-readiness in mind
-
----
-
-## 🧰 Core Stack
-
-- **Languages:** Python, JavaScript/TypeScript, Shell
-- **AI Tooling:** Ollama, LiteLLM, DeepSeek, Llama
-- **Engineering Priorities:** Dev containers, automation playbooks, and cost-aware architecture
-
----
-
-## 🤝 Connect
-
-- GitHub: [@zebadee2kk](https://github.com/zebadee2kk)
-- Project discussions/issues: [Open an issue](https://github.com/zebadee2kk/zebadee2kk/issues)
+- 🌐 I’m also deeply involved in the **RichardHam-co-uk** org; see
+  <https://github.com/RichardHam-co-uk> for commercial and collaborative
+  projects.
 
 ---
 
-> *Move fast, but build the playbook so you don't have to move the same way twice.*
+### 📫 Find me elsewhere
+
+- Twitter / X: [@richardh](https://twitter.com/richardh)  
+- Mastodon: `@richardh@fosstodon.org`  
+- Blog: <https://rham.dev>  
+
+---
+
+> “Open source is not a license, it’s a philosophy.”  
+> The code above is a by‑product of that philosophy – use it, break it,
+> improve it.
+
