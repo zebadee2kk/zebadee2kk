@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ☆zebadee2kk☆
+☆zebadee2kk☆
 
 I build and orchestrate intelligent systems that bring **AI,
 security and operational tooling together** – from scalable LLM
