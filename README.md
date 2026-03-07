@@ -8,8 +8,8 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ## 🚀 Portfolio Overview
 
-**Total Repositories:** 11 (7 public, 4 private)  
-**Active Projects:** 6  
+**Total Repositories:** 13 (9 public, 4 private)  
+**Active Projects:** 9  
 **Primary Focus:** AI-First Development, Security Architecture, Automation  
 **Tech Stack:** Python, Shell, GitHub Actions
 
@@ -21,17 +21,22 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 #### ⭐ [control-tower](https://github.com/zebadee2kk/control-tower) – Flagship Project
 *GitHub-native control plane for AI-assisted projects*
-- **Status:** Active Development | **Open Issues:** 9
+- **Status:** Active Development | **Open Issues:** 11
 - Zero-trust automation with cost governance, decision gates, and human-in-the-loop orchestration
-- **Current Phase:** Phase 2 - Automation with GitHub Actions
+- **Current Phase:** Phase 3 - Intelligent Orchestration
 - Features: Decision Desk workflow, cost tracking, WIP limits, gate enforcement
+
+#### [ai-cost-tracker](https://github.com/zebadee2kk/ai-cost-tracker)
+*AI cost tracking and governance*
+- Tracks AI token usage, costs, and budgets across projects
+- Python | **Open Issues:** 15
 
 #### [portfolio-management](https://github.com/zebadee2kk/portfolio-management)
 *AI-powered GitHub portfolio management system*
 - Automated repo scanning, project prioritization, and cross-repo coordination
-- Python & Shell | **Open Issues:** 1
+- Python & Shell | **Open Issues:** 0
 
-#### [ai-powertools](https://github.com/zebadee2kk/ai-powertools) ⭐ 1
+#### [ai-powertools](https://github.com/zebadee2kk/ai-powertools)
 *Multiplier Components for high-velocity development*
 - Collection of AI-driven workflow tools designed to accelerate development velocity
 - Topics: `ai`, `automation`, `dev-tools`, `productivity-tools`, `high-velocity`
@@ -41,7 +46,17 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ### 🔐 Security & Systems Architecture
 
-#### [secure-claude-orchestrator](https://github.com/zebadee2kk/secure-claude-orchestrator) 🔒 Private ⭐ 1
+#### [kynee](https://github.com/zebadee2kk/kynee)
+*AI-assisted portable security assessment platform*
+- KYNEĒ — Authorized penetration testing and red team operations tooling
+- Python | **Open Issues:** 8
+
+#### [sentinelforge](https://github.com/zebadee2kk/sentinelforge)
+*Secure containment platform for autonomous AI agents*
+- Strict governance, auditing, and observability for AI agent execution
+- **Open Issues:** 2
+
+#### [secure-claude-orchestrator](https://github.com/zebadee2kk/secure-claude-orchestrator) 🔒 Private
 *Hardened Claude Code VM bootstrap*
 - Zero-trust automation control plane for Claude VM environments
 - Enterprise-grade security controls | **Open Issues:** 2
@@ -70,7 +85,7 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ### 📦 Templates & Best Practices
 
-#### [best-practice-repo-template](https://github.com/zebadee2kk/best-practice-repo-template) ⭐ 1 | Template
+#### [best-practice-repo-template](https://github.com/zebadee2kk/best-practice-repo-template) | Template
 *Ultimate GitHub repository template*
 - Enterprise-grade template focusing on security, development playbooks, and scalable project management
 - Topics: `best-practices`, `ci-cd`, `github-template`, `playbook`, `project-management`, `security`
@@ -100,32 +115,27 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ### 🎯 Current Focus (Q1 2026)
 
-**Phase 2: Control Tower Automation** | *Timeline: Feb 24 - Mar 3, 2026*
+**Phase 3: Intelligent Orchestration** | *Started: Mar 2026*
 
-- Transform manual workflows into automated GitHub Actions-powered system
-- Label-driven state management automation
-- Nightly Decision Desk (9 PM GMT) generation
-- Weekly cost rollup reporting
-- WIP limit enforcement
-
-### 📋 Near-Term Priorities (Next 4 Weeks)
-
-1. **Repository Reconnaissance & Consolidation** – Complete audit of all 11 repositories
-2. **Cost Tracking & Governance Framework** – Define practical time/token/cost tracking
-3. **Decision Desk Routine** – Daily 9 PM GMT review practice (<5 min target)
-4. **Workflow States & Gates Documentation** – State transitions and decision criteria
-
-### 🔮 Medium-Term (Q2 2026)
-
-**Phase 3: Intelligent Orchestration**
 - Local LLM integration for decision support
 - MCP (Model Context Protocol) implementation
 - Agent coordination across repositories
-- Advanced portfolio analytics
+- SentinelForge: containment and governance for autonomous AI agents
+- KYNEĒ: AI-assisted security assessment platform
 
-**Portfolio Enhancements**
+### 📋 Near-Term Priorities (Next 4 Weeks)
+
+1. **SentinelForge Hardening** – Governance and observability for AI agents
+2. **KYNEĒ Assessment Tooling** – Penetration testing and red team automation
+3. **AI Cost Tracker Integration** – Live cost visibility across all projects
+4. **Control Tower Phase 3 Rollout** – Intelligent orchestration and agent coordination
+
+### 🔮 Medium-Term (Q2 2026)
+
+**Phase 4: Advanced Orchestration & Analytics**
+- Advanced portfolio analytics and health scoring
+- Multi-agent coordination frameworks
 - Automated cross-repo dependency tracking
-- Project health scoring algorithms
 - Resource allocation optimization
 
 **Zebra Ecosystem Expansion**
@@ -146,10 +156,10 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 | Metric | Current | Target Q1 | Target Q2 |
 |--------|---------|-----------|----------|
-| Active Projects | 6 | 8 | 10 |
-| Automation Coverage | 20% | 80% | 95% |
-| Public Repos | 7 | 9 | 12 |
-| Daily Decision Time | 15 min | <5 min | <3 min |
+| Active Projects | 9 | 10 | 12 |
+| Automation Coverage | 60% | 80% | 95% |
+| Public Repos | 9 | 11 | 14 |
+| Daily Decision Time | 10 min | <5 min | <3 min |
 
 ---
 
@@ -182,6 +192,9 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 
 - [Control Tower](https://github.com/zebadee2kk/control-tower) – Primary orchestration system
 - [AI Powertools](https://github.com/zebadee2kk/ai-powertools) – Development accelerators
+- [AI Cost Tracker](https://github.com/zebadee2kk/ai-cost-tracker) – Cost governance
+- [SentinelForge](https://github.com/zebadee2kk/sentinelforge) – AI agent containment platform
+- [KYNEĒ](https://github.com/zebadee2kk/kynee) – Security assessment platform
 - [Best Practice Template](https://github.com/zebadee2kk/best-practice-repo-template) – Repo foundation
 - [Portfolio Management](https://github.com/zebadee2kk/portfolio-management) – Cross-repo coordination
 - [Zebra Ecosystem](https://github.com/zebadee2kk/zebra-ecosystem) – Python frameworks
@@ -204,5 +217,5 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 
 ---
 
-*Last Updated: February 24, 2026*  
+*Last Updated: March 7, 2026*  
 *Portfolio managed via [control-tower](https://github.com/zebadee2kk/control-tower) system*
