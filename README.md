@@ -21,7 +21,7 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 #### ⭐ [control-tower](https://github.com/zebadee2kk/control-tower) – Flagship Project
 *GitHub-native control plane for AI-assisted projects*
-- **Status:** Active Development | **Open Issues:** 11
+- **Status:** Active Development | **Open Issues:** 10
 - Zero-trust automation with cost governance, decision gates, and human-in-the-loop orchestration
 - **Current Phase:** Phase 3 - Intelligent Orchestration
 - Features: Decision Desk workflow, cost tracking, WIP limits, gate enforcement
@@ -177,8 +177,48 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ## 🤝 Collaborative Projects
 
-🌐 Deeply involved in the **RichardHam.co.uk** organization  
-See <https://github.com/RichardHam-co-uk> for commercial and collaborative projects
+### 🌐 RichardHam.co.uk Organisation
+
+Deeply involved in the **RichardHam.co.uk** organisation as lead architect and AI engineer.  
+See <https://github.com/RichardHam-co-uk> for the full project catalogue.
+
+#### [ProjectLodestar](https://github.com/RichardHam-co-uk/ProjectLodestar)
+*AI development environment with 90% cost savings*
+- Routes between 8 LLM providers, defaulting to FREE local Ollama models
+- Python | Production-ready with automated testing
+
+#### [RedGuard-Suite](https://github.com/RichardHam-co-uk/RedGuard-Suite)
+*Ethical red teaming and penetration testing framework*
+- Aligned to MITRE ATT&CK/ATLAS, OWASP, and NIST
+- Python | Cybersecurity tooling
+
+#### [LocalLLM-Router-Project](https://github.com/RichardHam-co-uk/LocalLLM-Router-Project)
+*Advanced local LLM routing system*
+- Node.js-based routing to offload tasks to Ollama and optimise public API consumption
+
+#### [ProjectMemento](https://github.com/RichardHam-co-uk/ProjectMemento)
+*Local-first AI memory system*
+- Aggregates LLM conversations into a searchable, secure knowledge base
+- Python | Privacy-first | Qdrant vector storage
+
+#### [Project-HeliOS](https://github.com/RichardHam-co-uk/Project-HeliOS)
+*Next-generation Personal AI OS*
+- Custom build based on OpenDAN, consolidating AI modules for personal use
+- Python
+
+---
+
+### 🤖 derek-ai
+
+**derek-ai** is the GitHub Copilot AI coding agent actively supporting development across the RichardHam-co-uk portfolio. derek-ai assists with:
+
+- Code implementation, refactoring, and review across all RichardHam-co-uk repositories
+- AI-assisted security assessments and penetration testing tooling (RedGuard-Suite)
+- LLM routing architecture and integration work (ProjectLodestar, LocalLLM-Router-Project)
+- Memory and knowledge-base system development (ProjectMemento)
+- Cross-organisation coordination between zebadee2kk and RichardHam-co-uk ecosystems
+
+> Think of derek-ai as the on-call AI engineer bridging both portfolios — raising PRs, reviewing code, and keeping the velocity high.
 
 **Seeking Collaborators For:**
 - Control Tower ecosystem expansion
@@ -198,6 +238,7 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 - [Best Practice Template](https://github.com/zebadee2kk/best-practice-repo-template) – Repo foundation
 - [Portfolio Management](https://github.com/zebadee2kk/portfolio-management) – Cross-repo coordination
 - [Zebra Ecosystem](https://github.com/zebadee2kk/zebra-ecosystem) – Python frameworks
+- [RichardHam.co.uk](https://github.com/RichardHam-co-uk) – Commercial & collaborative projects
 
 ---
 
