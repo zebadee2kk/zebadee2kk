@@ -21,7 +21,7 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 #### ⭐ [control-tower](https://github.com/zebadee2kk/control-tower) – Flagship Project
 *GitHub-native control plane for AI-assisted projects*
-- **Status:** Active Development | **Open Issues:** 11
+- **Status:** Active Development | **Open Issues:** 10
 - Zero-trust automation with cost governance, decision gates, and human-in-the-loop orchestration
 - **Current Phase:** Phase 3 - Intelligent Orchestration
 - Features: Decision Desk workflow, cost tracking, WIP limits, gate enforcement
@@ -177,8 +177,22 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ## 🤝 Collaborative Projects
 
-🌐 Deeply involved in the **RichardHam.co.uk** organization  
+🌐 Deeply involved in the **RichardHam.co.uk** organisation  
 See <https://github.com/RichardHam-co-uk> for commercial and collaborative projects
+
+### RichardHam.co.uk Active Projects
+
+| Project | Description |
+|---------|-------------|
+| [ProjectLodestar](https://github.com/RichardHam-co-uk/ProjectLodestar) | AI dev environment with 90% cost savings – routes between 8 LLM providers defaulting to FREE local models |
+| [RedGuard-Suite](https://github.com/RichardHam-co-uk/RedGuard-Suite) | Ethical red teaming & pen testing framework aligned to MITRE ATT&CK/ATLAS, OWASP, and NIST |
+| [LocalLLM-Router-Project](https://github.com/RichardHam-co-uk/LocalLLM-Router-Project) | Advanced local LLM routing via Node.js, optimising public API consumption |
+| [ProjectMemento](https://github.com/RichardHam-co-uk/ProjectMemento) | Local-first AI memory system – searchable, secure knowledge base aggregating LLM conversations |
+| [Project-HeliOS](https://github.com/RichardHam-co-uk/Project-HeliOS) | *(Coming soon)* |
+
+### 🤖 AI Agent: [derek-ai](https://github.com/derek-ai-dev)
+
+**derek-ai** is the GitHub Copilot AI coding agent bridging the **zebadee2kk** and **RichardHam.co.uk** portfolios — managing issues, raising PRs, and accelerating development across both organisations.
 
 **Seeking Collaborators For:**
 - Control Tower ecosystem expansion
@@ -198,6 +212,7 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 - [Best Practice Template](https://github.com/zebadee2kk/best-practice-repo-template) – Repo foundation
 - [Portfolio Management](https://github.com/zebadee2kk/portfolio-management) – Cross-repo coordination
 - [Zebra Ecosystem](https://github.com/zebadee2kk/zebra-ecosystem) – Python frameworks
+- [RichardHam.co.uk](https://github.com/RichardHam-co-uk) – Collaborative commercial projects
 
 ---
 
