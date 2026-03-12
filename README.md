@@ -11,7 +11,8 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 **Total Repositories:** 13 (9 public, 4 private)  
 **Active Projects:** 9  
 **Primary Focus:** AI-First Development, Security Architecture, Automation  
-**Tech Stack:** Python, Shell, GitHub Actions
+**Tech Stack:** Python, Shell, GitHub Actions  
+**Current Phase:** Phase 3 – Intelligent Orchestration
 
 ---
 
@@ -222,8 +223,8 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 - **Mastodon:** tbc
 - **Blog:** tbc
 - **Location:** London, UK
-- **Experience:** 25 years IT/Cybersecurity industry
-- **Current Role:** Vibecodr
+- **Experience:** 25+ years IT/Cybersecurity industry
+- **Current Role:** Vibecodr (AI-first independent developer)
 
 ---
 
@@ -232,5 +233,5 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 
 ---
 
-*Last Updated: March 7, 2026*  
+*Last Updated: March 12, 2026*  
 *Portfolio managed via [control-tower](https://github.com/zebadee2kk/control-tower) system*
