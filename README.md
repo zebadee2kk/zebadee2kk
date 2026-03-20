@@ -217,6 +217,25 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 
 ---
 
+## ⭐ Starred Repositories
+
+*Repositories I've starred — curated external projects aligned with my interests in AI, automation, and security.*
+
+| Repository | Description |
+|------------|-------------|
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Framework for orchestrating role-playing, autonomous AI agents |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Hundreds of models & providers. One command to find what runs on your hardware |
+| [MadaBurns/bv-vibesdk](https://github.com/MadaBurns/bv-vibesdk) | Open-source vibe coding platform built entirely on Cloudflare stack |
+| [MadaBurns/bv-mcp](https://github.com/MadaBurns/bv-mcp) | Open-source DNS & email security scanner — one MCP endpoint, 57 checks, zero install |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | Best practices for Claude Code |
+| [RichardHam-co-uk/ProjectLodestar](https://github.com/RichardHam-co-uk/ProjectLodestar) | AI development environment with 90% cost savings — routes between 8 LLM providers |
+| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU nanochat training automatically |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | PM Skills Marketplace: 100+ agentic skills, commands, and plugins |
+| [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) | Research into AI engineering interview assignments and hiring practices |
+| [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook) | All the links, books, and creators you need to stay up to date with AI |
+
+---
+
 ## 📫 Find Me Elsewhere
 
 - **Twitter / X:** tbc  
