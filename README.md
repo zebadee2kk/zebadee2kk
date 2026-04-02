@@ -8,11 +8,11 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ## 🚀 Portfolio Overview
 
-**Total Repositories:** 13 (9 public, 4 private)  
-**Active Projects:** 9  
-**Primary Focus:** AI-First Development, Security Architecture, Automation  
-**Tech Stack:** Python, Shell, GitHub Actions  
-**Current Phase:** Phase 3 – Intelligent Orchestration
+**Total Repositories:** 16 (10 public, 6 private)  
+**Active Projects:** 11  
+**Primary Focus:** AI-First Development, Security Architecture, Automation, Web Applications  
+**Tech Stack:** Python, TypeScript, Shell, GitHub Actions  
+**Current Phase:** Phase 4 – Advanced Orchestration & Studio Expansion
 
 ---
 
@@ -22,9 +22,9 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 #### ⭐ [control-tower](https://github.com/zebadee2kk/control-tower) – Flagship Project
 *GitHub-native control plane for AI-assisted projects*
-- **Status:** Active Development | **Open Issues:** 10
+- **Status:** Active Development | **Open Issues:** 5
 - Zero-trust automation with cost governance, decision gates, and human-in-the-loop orchestration
-- **Current Phase:** Phase 3 - Intelligent Orchestration
+- **Current Phase:** Phase 4 - Advanced Orchestration & Studio Expansion
 - Features: Decision Desk workflow, cost tracking, WIP limits, gate enforcement
 
 #### [ai-cost-tracker](https://github.com/zebadee2kk/ai-cost-tracker)
@@ -32,16 +32,21 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 - Tracks AI token usage, costs, and budgets across projects
 - Python | **Open Issues:** 15
 
-#### [portfolio-management](https://github.com/zebadee2kk/portfolio-management)
-*AI-powered GitHub portfolio management system*
-- Automated repo scanning, project prioritization, and cross-repo coordination
-- Python & Shell | **Open Issues:** 0
-
 #### [ai-powertools](https://github.com/zebadee2kk/ai-powertools)
 *Multiplier Components for high-velocity development*
 - Collection of AI-driven workflow tools designed to accelerate development velocity
 - Topics: `ai`, `automation`, `dev-tools`, `productivity-tools`, `high-velocity`
 - License: MIT
+
+#### [HeliOS-Studio](https://github.com/zebadee2kk/HeliOS-Studio)
+*Personal AI R&D Lab – one-person AI-powered startup studio*
+- End-to-end environment for discovery, research, architecture, prototyping, and deployment
+- From idea to production: structured studio workflows powered by AI agents
+
+#### [portfolio-management](https://github.com/zebadee2kk/portfolio-management) 🔒 Private
+*AI-powered GitHub portfolio management system*
+- Automated repo scanning, project prioritization, and cross-repo coordination
+- Python & Shell
 
 ---
 
@@ -55,7 +60,7 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 #### [sentinelforge](https://github.com/zebadee2kk/sentinelforge)
 *Secure containment platform for autonomous AI agents*
 - Strict governance, auditing, and observability for AI agent execution
-- **Open Issues:** 2
+- **Open Issues:** 1
 
 #### [secure-claude-orchestrator](https://github.com/zebadee2kk/secure-claude-orchestrator) 🔒 Private
 *Hardened Claude Code VM bootstrap*
@@ -90,7 +95,7 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 *Ultimate GitHub repository template*
 - Enterprise-grade template focusing on security, development playbooks, and scalable project management
 - Topics: `best-practices`, `ci-cd`, `github-template`, `playbook`, `project-management`, `security`
-- **Open Issues:** 5 | License: MIT
+- **Open Issues:** 0 | License: MIT
 
 ---
 
@@ -103,7 +108,16 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ---
 
-### 🌐 Infrastructure & Operations
+### 🌐 Web Applications
+
+#### [Veritas-News-Hub](https://github.com/zebadee2kk/Veritas-News-Hub)
+*World News Hub*
+- Real-time aggregation and presentation of world news
+- TypeScript | **Open Issues:** 2 | License: MIT
+
+---
+
+### 🏗️ Infrastructure & Operations
 
 #### [hosting-ops](https://github.com/zebadee2kk/hosting-ops) 🔒 Private
 *WebHost365 operations directory*
@@ -114,30 +128,38 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ## 🗺️ Roadmap
 
-### 🎯 Current Focus (Q1 2026)
+### 🎯 Current Focus (Q2 2026)
 
-**Phase 3: Intelligent Orchestration** | *Started: Mar 2026*
+**Phase 4: Advanced Orchestration & Studio Expansion** | *Started: Apr 2026*
 
-- Local LLM integration for decision support
-- MCP (Model Context Protocol) implementation
-- Agent coordination across repositories
-- SentinelForge: containment and governance for autonomous AI agents
-- KYNEĒ: AI-assisted security assessment platform
+- Advanced portfolio analytics and health scoring
+- Multi-agent coordination frameworks
+- HeliOS Studio: end-to-end AI-powered project studio workflows
+- Veritas News Hub: real-time news intelligence layer
+- Automated cross-repo dependency tracking
 
 ### 📋 Near-Term Priorities (Next 4 Weeks)
 
-1. **SentinelForge Hardening** – Governance and observability for AI agents
-2. **KYNEĒ Assessment Tooling** – Penetration testing and red team automation
+1. **HeliOS-Studio Build-Out** – Studio framework for AI-assisted discovery and prototyping
+2. **Veritas-News-Hub MVP** – Real-time world news aggregation and delivery
 3. **AI Cost Tracker Integration** – Live cost visibility across all projects
-4. **Control Tower Phase 3 Rollout** – Intelligent orchestration and agent coordination
+4. **Control Tower Phase 4 Rollout** – Advanced orchestration and multi-agent coordination
 
-### 🔮 Medium-Term (Q2 2026)
+### ✅ Completed (Q1 2026)
 
-**Phase 4: Advanced Orchestration & Analytics**
-- Advanced portfolio analytics and health scoring
-- Multi-agent coordination frameworks
-- Automated cross-repo dependency tracking
-- Resource allocation optimization
+**Phase 3: Intelligent Orchestration**
+- ✓ Local LLM integration for decision support (via ProjectLodestar)
+- ✓ MCP (Model Context Protocol) implementation
+- ✓ SentinelForge: containment and governance for autonomous AI agents
+- ✓ KYNEĒ: AI-assisted security assessment platform (in progress)
+- ✓ Control Tower Phase 3 rollout
+
+### 🔮 Medium-Term (Q3 2026)
+
+**Phase 5: Ecosystem Maturity & Open Source**
+- Resource allocation optimization across the full portfolio
+- Open source core components release
+- Community building around AI-first development patterns
 
 **Zebra Ecosystem Expansion**
 - Homelab automation modules
@@ -155,12 +177,12 @@ I build and orchestrate intelligent systems that bring **AI, security and operat
 
 ## 📈 Portfolio Metrics
 
-| Metric | Current | Target Q1 | Target Q2 |
+| Metric | Current | Target Q2 | Target Q3 |
 |--------|---------|-----------|----------|
-| Active Projects | 9 | 10 | 12 |
-| Automation Coverage | 60% | 80% | 95% |
-| Public Repos | 9 | 11 | 14 |
-| Daily Decision Time | 10 min | <5 min | <3 min |
+| Active Projects | 11 | 13 | 15 |
+| Automation Coverage | 70% | 85% | 95% |
+| Public Repos | 10 | 12 | 14 |
+| Daily Decision Time | 8 min | <5 min | <3 min |
 
 ---
 
@@ -189,7 +211,7 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 | [RedGuard-Suite](https://github.com/RichardHam-co-uk/RedGuard-Suite) | Ethical red teaming & pen testing framework aligned to MITRE ATT&CK/ATLAS, OWASP, and NIST |
 | [LocalLLM-Router-Project](https://github.com/RichardHam-co-uk/LocalLLM-Router-Project) | Advanced local LLM routing via Node.js, optimising public API consumption |
 | [ProjectMemento](https://github.com/RichardHam-co-uk/ProjectMemento) | Local-first AI memory system – searchable, secure knowledge base aggregating LLM conversations |
-| [Project-HeliOS](https://github.com/RichardHam-co-uk/Project-HeliOS) | *(Coming soon)* |
+| Project-HeliOS | *(In planning)* |
 
 ### 🤖 AI Agent: [derek-ai](https://github.com/derek-ai-dev)
 
@@ -206,12 +228,13 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 ## 🔗 Quick Links
 
 - [Control Tower](https://github.com/zebadee2kk/control-tower) – Primary orchestration system
+- [HeliOS-Studio](https://github.com/zebadee2kk/HeliOS-Studio) – Personal AI R&D & startup studio
 - [AI Powertools](https://github.com/zebadee2kk/ai-powertools) – Development accelerators
 - [AI Cost Tracker](https://github.com/zebadee2kk/ai-cost-tracker) – Cost governance
 - [SentinelForge](https://github.com/zebadee2kk/sentinelforge) – AI agent containment platform
 - [KYNEĒ](https://github.com/zebadee2kk/kynee) – Security assessment platform
+- [Veritas-News-Hub](https://github.com/zebadee2kk/Veritas-News-Hub) – World news hub
 - [Best Practice Template](https://github.com/zebadee2kk/best-practice-repo-template) – Repo foundation
-- [Portfolio Management](https://github.com/zebadee2kk/portfolio-management) – Cross-repo coordination
 - [Zebra Ecosystem](https://github.com/zebadee2kk/zebra-ecosystem) – Python frameworks
 - [RichardHam.co.uk](https://github.com/RichardHam-co-uk) – Collaborative commercial projects
 
@@ -252,5 +275,5 @@ See <https://github.com/RichardHam-co-uk> for commercial and collaborative proje
 
 ---
 
-*Last Updated: March 22, 2026*  
+*Last Updated: April 2, 2026*  
 *Portfolio managed via [control-tower](https://github.com/zebadee2kk/control-tower) system*
