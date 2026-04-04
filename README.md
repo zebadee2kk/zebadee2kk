@@ -1,279 +1,271 @@
-# ☆ zebadee2kk ☆
-
-**Architecting Efficiency & AI-First Systems | 25 Years IT/Cybersecurity | London-based Vibecodr**
-
-I build and orchestrate intelligent systems that bring **AI, security and operational tooling together** – from scalable LLM pipelines to vaults for sensitive data, with zero-trust automation and human-in-the-loop control.
-
+# ☆ zebadee2kk — Richard Ham ☆
+ 
+> **Senior Infrastructure Architect · AI Automation Engineer · Fractional CISO · London** 
+> *25+ years IT/Cybersecurity · Orchestrating AI-first systems at speed*
+ 
+I architect and build **intelligent operational systems** — combining zero-trust security, multi-model AI orchestration, and infrastructure automation into cohesive platforms. My work spans from hardened homelab infrastructure to portable security assessment tools and fully AI-assisted development pipelines.
+ 
 ---
-
-## 🚀 Portfolio Overview
-
-**Total Repositories:** 16 (10 public, 6 private)  
-**Active Projects:** 11  
-**Primary Focus:** AI-First Development, Security Architecture, Automation, Web Applications  
-**Tech Stack:** Python, TypeScript, Shell, GitHub Actions  
-**Current Phase:** Phase 4 – Advanced Orchestration & Studio Expansion
-
+ 
+## 📊 Portfolio at a Glance
+ 
+| Metric | Value |
+|--------|-------|
+| Total Repositories | 26 (14 public · 16 private) |
+| Active Projects | 18+ |
+| Primary Languages | Python · Shell · PowerShell · TypeScript |
+| Current Phase | Phase 4 – Advanced Orchestration & Studio Expansion |
+| Personal OS | [HamOS](https://github.com/zebadee2kk/HamOS) — Secure AI-Driven Operating Environment |
+ 
 ---
-
-## 🗂️ Repository Catalogue
-
-### 🤖 AI & Automation Infrastructure
-
-#### ⭐ [control-tower](https://github.com/zebadee2kk/control-tower) – Flagship Project
+ 
+## 🏗️ Core Infrastructure
+ 
+### ⭐ [control-tower](https://github.com/zebadee2kk/control-tower) — Flagship
 *GitHub-native control plane for AI-assisted projects*
-- **Status:** Active Development | **Open Issues:** 5
-- Zero-trust automation with cost governance, decision gates, and human-in-the-loop orchestration
-- **Current Phase:** Phase 4 - Advanced Orchestration & Studio Expansion
-- Features: Decision Desk workflow, cost tracking, WIP limits, gate enforcement
-
-#### [ai-cost-tracker](https://github.com/zebadee2kk/ai-cost-tracker)
-*AI cost tracking and governance*
-- Tracks AI token usage, costs, and budgets across projects
-- Python | **Open Issues:** 15
-
-#### [ai-powertools](https://github.com/zebadee2kk/ai-powertools)
+ 
+The central nervous system of the zebadee2kk ecosystem. Enforces WIP limits, decision gates, human-in-the-loop controls, and cost governance across all active projects.
+`Python` · Active · Open Issues: 5
+ 
+### [HamOS](https://github.com/zebadee2kk/HamOS) 🔒
+*Secure-by-design personal operating environment*
+ 
+Centralized data lake, AI tool integration, project management, sandboxing, and unified dashboard for a modern AI-driven workflow. The master orchestration layer sitting above all other systems.
+`Python` · MIT · Active Development
+ 
+### [hamnet](https://github.com/zebadee2kk/hamnet) 🔒
+*HAMNET — Home Autonomous Management Network*
+ 
+Private AI-enabled infrastructure lab: homelab compute (Proxmox/LXC), VPS production hosting, and multi-model AI orchestration under one unified network.
+`Shell` · MIT · Active
+ 
+### [work-os-control-plane](https://github.com/zebadee2kk/work-os-control-plane) 🔒
+*Personal AI-orchestrated work triage system*
+ 
+M365 + local LLM + Azure OpenAI control plane for intelligent work prioritisation and triage.
+`Python` · Private
+ 
+---
+ 
+## 🤖 AI Orchestration & Automation
+ 
+### [vm-claude-agents](https://github.com/zebadee2kk/vm-claude-agents) 🔒
+*AI agent orchestration — n8n + Ollama + Docker*
+ 
+Full agent orchestration setup: n8n workflows, Ollama local LLM integration, and Docker Compose configs for running Claude agents in isolated VMs.
+`Shell` · MIT · Updated: Today
+ 
+### [HeliOS-Studio](https://github.com/zebadee2kk/HeliOS-Studio)
+*Personal AI R&D Lab & one-person startup studio*
+ 
+End-to-end environment for discovery → research → architecture → prototyping → deployment. The creative production studio layer of the ecosystem.
+ 
+### [ai-powertools](https://github.com/zebadee2kk/ai-powertools)
 *Multiplier Components for high-velocity development*
-- Collection of AI-driven workflow tools designed to accelerate development velocity
-- Topics: `ai`, `automation`, `dev-tools`, `productivity-tools`, `high-velocity`
-- License: MIT
-
-#### [HeliOS-Studio](https://github.com/zebadee2kk/HeliOS-Studio)
-*Personal AI R&D Lab – one-person AI-powered startup studio*
-- End-to-end environment for discovery, research, architecture, prototyping, and deployment
-- From idea to production: structured studio workflows powered by AI agents
-
-#### [portfolio-management](https://github.com/zebadee2kk/portfolio-management) 🔒 Private
+ 
+Collection of AI-driven workflow tools designed to radically compress development cycles. Topics: `ai` `automation` `dev-tools` `high-velocity`
+`Python` · MIT
+ 
+### [ai-cost-tracker](https://github.com/zebadee2kk/ai-cost-tracker)
+*AI cost tracking & governance across multi-model API usage*
+ 
+Tracks token consumption, costs, and budgets across all projects and providers. 15 open issues tracking planned features.
+`Python` · MIT · Open Issues: 15
+ 
+### [zebra-ecosystem](https://github.com/zebadee2kk/zebra-ecosystem)
+*AI-powered Python ecosystem with security and cost control*
+ 
+Modular architecture for homelab automation, trading system integrations, and AI agent frameworks. The reusable component library underpinning the wider stack.
+`Python` · MIT
+ 
+### [portfolio-management](https://github.com/zebadee2kk/portfolio-management) 🔒
 *AI-powered GitHub portfolio management system*
-- Automated repo scanning, project prioritization, and cross-repo coordination
-- Python & Shell
-
+ 
+Automated repo scanning, project prioritization, and cross-repo coordination.
+`Python`
+ 
 ---
-
-### 🔐 Security & Systems Architecture
-
-#### [kynee](https://github.com/zebadee2kk/kynee)
-*AI-assisted portable security assessment platform*
-- KYNEĒ — Authorized penetration testing and red team operations tooling
-- Python | **Open Issues:** 8
-
-#### [sentinelforge](https://github.com/zebadee2kk/sentinelforge)
+ 
+## 🔐 Security & Red Team
+ 
+### [kynee](https://github.com/zebadee2kk/kynee)
+*KYNEĒ — AI-assisted portable security assessment platform*
+ 
+Purpose-built for authorized penetration testing and red team operations. Portable, agent-assisted, built for consultants in the field.
+`Python` · Apache 2.0 · Open Issues: 8
+ 
+### [sentinelforge](https://github.com/zebadee2kk/sentinelforge)
 *Secure containment platform for autonomous AI agents*
-- Strict governance, auditing, and observability for AI agent execution
-- **Open Issues:** 1
-
-#### [secure-claude-orchestrator](https://github.com/zebadee2kk/secure-claude-orchestrator) 🔒 Private
-*Hardened Claude Code VM bootstrap*
-- Zero-trust automation control plane for Claude VM environments
-- Enterprise-grade security controls | **Open Issues:** 2
-
-#### [life-security-architecture](https://github.com/zebadee2kk/life-security-architecture) 🔒 Private
-*Personal security architecture framework*
-- Comprehensive security architecture for personal digital infrastructure
-- The security foundation that underpins all OSS/consulting work
-
+ 
+Governance, auditing, and observability layer for running AI agents safely. Enforces strict sandboxing and audit trails for every agent action.
+`PLpgSQL` · MIT
+ 
+### [M365-Audit-Toolkit](https://github.com/zebadee2kk/M365-Audit-Toolkit) 🔒
+*Modular read-only Microsoft 365 audit toolkit*
+ 
+Security posture, AI readiness, SharePoint/OneDrive, and governance assessments. Built for consultant deployments with interactive MFA auth.
+`PowerShell` · MIT · Active
+ 
+### [secure-claude-orchestrator](https://github.com/zebadee2kk/secure-claude-orchestrator) 🔒
+*Hardened Claude Code VM bootstrap — zero-trust automation control plane*
+ 
+Enterprise-grade security controls for running Claude in isolated VM environments.
+`Shell`
+ 
+### [life-security-architecture](https://github.com/zebadee2kk/life-security-architecture) 🔒
+*Personal digital security architecture framework*
+ 
+The foundational security architecture that underpins all personal and commercial infrastructure.
+`Shell`
+ 
 ---
-
-### 🐍 Python Ecosystems & Frameworks
-
-#### [zebra-ecosystem](https://github.com/zebadee2kk/zebra-ecosystem)
-*AI-powered Python ecosystem with integrated security*
-- Modular architecture for homelab automation, trading systems, and AI agents
-- Built-in cost control and model intelligence frameworks
-- License: MIT
-
-#### [project-echo-vault-local](https://github.com/zebadee2kk/project-echo-vault-local) 🔒 Private
-*Python-based vault system*
-- Local encrypted repository for confidential planning and data
-- License: MIT
-
+ 
+## 🌐 Web & Product Projects
+ 
+### [Veritas-News-Hub](https://github.com/zebadee2kk/Veritas-News-Hub)
+*World News Hub — real-time news aggregation*
+ 
+AI-assisted news intelligence platform for aggregating and presenting global news.
+`TypeScript` · MIT · Open Issues: 2
+ 
+### [website-development](https://github.com/zebadee2kk/website-development) 🔒
+*richardham.co.uk — Fractional CISO/IT portfolio site*
+ 
+Personal brand relaunch with AI-secure automation. Deployed on Vercel.
+`Shell`
+ 
+### [lilys-analytics-modernisation](https://github.com/zebadee2kk/lilys-analytics-modernisation) 🔒
+*Legacy analytics modernisation — Lily's Kitchen*
+ 
+Migrating legacy Access/Excel analytics to Azure SQL with AI-ready architecture.
+`VBA`
+ 
 ---
-
-### 📦 Templates & Best Practices
-
-#### [best-practice-repo-template](https://github.com/zebadee2kk/best-practice-repo-template) | Template
+ 
+## 🛠️ Developer Tooling & Templates
+ 
+### [best-practice-repo-template](https://github.com/zebadee2kk/best-practice-repo-template) · Template Repo
 *Ultimate GitHub repository template*
-- Enterprise-grade template focusing on security, development playbooks, and scalable project management
-- Topics: `best-practices`, `ci-cd`, `github-template`, `playbook`, `project-management`, `security`
-- **Open Issues:** 0 | License: MIT
-
+ 
+Enterprise-grade template covering security, CI/CD playbooks, and scalable project management. Used as the base for new repos across the ecosystem.
+Topics: `best-practices` `ci-cd` `github-template` `playbook` `security` · MIT
+ 
+### [ai-powertools](https://github.com/zebadee2kk/ai-powertools)
+*Workflow accelerators and dev multipliers*
+See AI Orchestration section above.
+ 
+### [common-vscode-repo](https://github.com/zebadee2kk/common-vscode-repo) 🔒
+*GitHub toolkit: auditing, templates, and automation*
+ 
+Shared VS Code and GitHub configurations, audit scripts, and repo management tooling.
+`Python`
+ 
 ---
-
-### 💡 Ideation & Knowledge Management
-
-#### [idea-vault](https://github.com/zebadee2kk/idea-vault) 🔒 Private ⭐ 1
-*Centralized idea repository*
-- Private repository for collecting, organizing, and developing project ideas
-- Encrypted brainstorming and planning workspace
-
+ 
+## 💡 Knowledge & Idea Management
+ 
+### [idea-vault](https://github.com/zebadee2kk/idea-vault) 🔒
+*AI-powered idea vault with security-first architecture*
+ 
+Encrypted, structured workspace for collecting and developing project ideas before they enter the pipeline.
+`Python`
+ 
+### [project-echo-vault-local](https://github.com/zebadee2kk/project-echo-vault-local) 🔒
+*Local encrypted repository for confidential planning*
+`Python` · MIT
+ 
 ---
-
-### 🌐 Web Applications
-
-#### [Veritas-News-Hub](https://github.com/zebadee2kk/Veritas-News-Hub)
-*World News Hub*
-- Real-time aggregation and presentation of world news
-- TypeScript | **Open Issues:** 2 | License: MIT
-
+ 
+## 📡 Infrastructure & Ops
+ 
+### [hosting-ops](https://github.com/zebadee2kk/hosting-ops) 🔒
+*WebHost365 — VPS and web hosting operations automation*
+ 
+Infrastructure automation, utility scripts, and operational tooling for self-managed hosting.
+`Shell`
+ 
+### [email-infrastructure-restructure](https://github.com/zebadee2kk/email-infrastructure-restructure) 🔒
+*Verification-first email infrastructure rebuild*
+ 
+Email infrastructure redesign for richardham.co.uk and webhost365.co.uk with DNS, DKIM, DMARC hardening.
+ 
 ---
-
-### 🏗️ Infrastructure & Operations
-
-#### [hosting-ops](https://github.com/zebadee2kk/hosting-ops) 🔒 Private
-*WebHost365 operations directory*
-- Operational infrastructure and automation for web hosting management
-- Utility scripts and automation roles for self-hosting
-
----
-
-## 🗺️ Roadmap
-
-### 🎯 Current Focus (Q2 2026)
-
-**Phase 4: Advanced Orchestration & Studio Expansion** | *Started: Apr 2026*
-
-- Advanced portfolio analytics and health scoring
-- Multi-agent coordination frameworks
-- HeliOS Studio: end-to-end AI-powered project studio workflows
-- Veritas News Hub: real-time news intelligence layer
-- Automated cross-repo dependency tracking
-
-### 📋 Near-Term Priorities (Next 4 Weeks)
-
-1. **HeliOS-Studio Build-Out** – Studio framework for AI-assisted discovery and prototyping
-2. **Veritas-News-Hub MVP** – Real-time world news aggregation and delivery
-3. **AI Cost Tracker Integration** – Live cost visibility across all projects
-4. **Control Tower Phase 4 Rollout** – Advanced orchestration and multi-agent coordination
-
-### ✅ Completed (Q1 2026)
-
-**Phase 3: Intelligent Orchestration**
-- ✓ Local LLM integration for decision support (via ProjectLodestar)
-- ✓ MCP (Model Context Protocol) implementation
-- ✓ SentinelForge: containment and governance for autonomous AI agents
-- ✓ KYNEĒ: AI-assisted security assessment platform (in progress)
-- ✓ Control Tower Phase 3 rollout
-
-### 🔮 Medium-Term (Q3 2026)
-
-**Phase 5: Ecosystem Maturity & Open Source**
-- Resource allocation optimization across the full portfolio
-- Open source core components release
-- Community building around AI-first development patterns
-
-**Zebra Ecosystem Expansion**
-- Homelab automation modules
-- Trading system integrations
-- AI agent frameworks
-
-### 🌟 Long-Term Vision (H2 2026+)
-
-- Enterprise-scale AI operations platform
-- Multi-tenant control plane architecture
-- Open source core components release
-- Community building around AI-first development patterns
-
----
-
-## 📈 Portfolio Metrics
-
-| Metric | Current | Target Q2 | Target Q3 |
-|--------|---------|-----------|----------|
-| Active Projects | 11 | 13 | 15 |
-| Automation Coverage | 70% | 85% | 95% |
-| Public Repos | 10 | 12 | 14 |
-| Daily Decision Time | 8 min | <5 min | <3 min |
-
----
-
-## 🎓 Core Principles
-
-**AI-First Architecture** – Leveraging AI at every layer while maintaining human oversight at critical decision points
-
-**Zero-Trust Automation** – Security-first approach with built-in cost controls and audit trails
-
-**High-Velocity Development** – Tools and workflows optimized for rapid iteration and deployment
-
-**Knowledge Capture** – Every project contributes to growing ecosystem of reusable patterns
-
----
-
-## 🤝 Collaborative Projects
-
-🌐 Deeply involved in the **RichardHam.co.uk** organisation  
-See <https://github.com/RichardHam-co-uk> for commercial and collaborative projects
-
-### RichardHam.co.uk Active Projects
-
+ 
+## 🤝 Collaborative — RichardHam.co.uk
+ 
+Deeply involved in the **[RichardHam.co.uk](https://github.com/RichardHam-co-uk)** organisation. Commercial and collaborative projects live there.
+ 
 | Project | Description |
 |---------|-------------|
-| [ProjectLodestar](https://github.com/RichardHam-co-uk/ProjectLodestar) | AI dev environment with 90% cost savings – routes between 8 LLM providers defaulting to FREE local models |
-| [RedGuard-Suite](https://github.com/RichardHam-co-uk/RedGuard-Suite) | Ethical red teaming & pen testing framework aligned to MITRE ATT&CK/ATLAS, OWASP, and NIST |
-| [LocalLLM-Router-Project](https://github.com/RichardHam-co-uk/LocalLLM-Router-Project) | Advanced local LLM routing via Node.js, optimising public API consumption |
-| [ProjectMemento](https://github.com/RichardHam-co-uk/ProjectMemento) | Local-first AI memory system – searchable, secure knowledge base aggregating LLM conversations |
-| Project-HeliOS | *(In planning)* |
-
+| [ProjectLodestar](https://github.com/RichardHam-co-uk/ProjectLodestar) | AI dev env with 90% cost savings — routes across 8 LLM providers, defaults to FREE local models |
+| [RedGuard-Suite](https://github.com/RichardHam-co-uk/RedGuard-Suite) | Ethical red team framework aligned to MITRE ATT&CK/ATLAS, OWASP, NIST |
+| [LocalLLM-Router-Project](https://github.com/RichardHam-co-uk/LocalLLM-Router-Project) | Advanced local LLM routing via Node.js — optimises public API consumption |
+| [ProjectMemento](https://github.com/RichardHam-co-uk/ProjectMemento) | Local-first AI memory system — secure, searchable knowledge base from LLM conversations |
+ 
 ### 🤖 AI Agent: [derek-ai](https://github.com/derek-ai-dev)
-
-**derek-ai** is the GitHub Copilot AI coding agent bridging the **zebadee2kk** and **RichardHam.co.uk** portfolios — managing issues, raising PRs, and accelerating development across both organisations.
-
-**Seeking Collaborators For:**
-- Control Tower ecosystem expansion
-- AI-first development patterns
-- Zero-trust automation frameworks
-- Open source template contributions
-
+**derek-ai** is the GitHub Copilot coding agent bridging the zebadee2kk and RichardHam.co.uk portfolios — managing issues, raising PRs, and shipping code across both organisations.
+ 
 ---
-
-## 🔗 Quick Links
-
-- [Control Tower](https://github.com/zebadee2kk/control-tower) – Primary orchestration system
-- [HeliOS-Studio](https://github.com/zebadee2kk/HeliOS-Studio) – Personal AI R&D & startup studio
-- [AI Powertools](https://github.com/zebadee2kk/ai-powertools) – Development accelerators
-- [AI Cost Tracker](https://github.com/zebadee2kk/ai-cost-tracker) – Cost governance
-- [SentinelForge](https://github.com/zebadee2kk/sentinelforge) – AI agent containment platform
-- [KYNEĒ](https://github.com/zebadee2kk/kynee) – Security assessment platform
-- [Veritas-News-Hub](https://github.com/zebadee2kk/Veritas-News-Hub) – World news hub
-- [Best Practice Template](https://github.com/zebadee2kk/best-practice-repo-template) – Repo foundation
-- [Zebra Ecosystem](https://github.com/zebadee2kk/zebra-ecosystem) – Python frameworks
-- [RichardHam.co.uk](https://github.com/RichardHam-co-uk) – Collaborative commercial projects
-
+ 
+## 🗺️ Roadmap
+ 
+### 🎯 Q2 2026 — Phase 4: Advanced Orchestration
+ 
+- HamOS: unified dashboard and AI tool integration layer
+- vm-claude-agents: full multi-agent VM orchestration via n8n + Ollama
+- M365 Audit Toolkit: public release candidate
+- Control Tower: Phase 4 rollout with multi-agent coordination
+- Veritas News Hub: real-time intelligence layer MVP
+ 
+### ✅ Q1 2026 — Phase 3: Intelligent Orchestration (Completed)
+- ✓ Local LLM integration and MCP implementation
+- ✓ SentinelForge: AI agent containment and governance
+- ✓ KYNEĒ: AI-assisted security assessment platform
+- ✓ HamOS: personal operating environment foundation
+- ✓ HAMNET: homelab + VPS unified network
+ 
+### 🔮 Q3 2026 — Phase 5: Ecosystem Maturity & Open Source
+- Resource allocation optimisation across portfolio
+- Open source release of core framework components
+- Community building around AI-first development patterns
+ 
 ---
-
-## ⭐ Starred Repositories
-
-*Repositories I've starred — curated external projects aligned with my interests in AI, automation, and security.*
-
-| Repository | Description |
-|------------|-------------|
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Framework for orchestrating role-playing, autonomous AI agents |
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Hundreds of models & providers. One command to find what runs on your hardware |
-| [MadaBurns/bv-vibesdk](https://github.com/MadaBurns/bv-vibesdk) | Open-source vibe coding platform built entirely on Cloudflare stack |
-| [MadaBurns/bv-mcp](https://github.com/MadaBurns/bv-mcp) | Open-source DNS & email security scanner — one MCP endpoint, 57 checks, zero install |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | Best practices for Claude Code |
-| [RichardHam-co-uk/ProjectLodestar](https://github.com/RichardHam-co-uk/ProjectLodestar) | AI development environment with 90% cost savings — routes between 8 LLM providers |
-| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU nanochat training automatically |
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | PM Skills Marketplace: 100+ agentic skills, commands, and plugins |
-| [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) | Research into AI engineering interview assignments and hiring practices |
-| [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook) | All the links, books, and creators you need to stay up to date with AI |
-
+ 
+## 🎓 Principles
+ 
+**AI-First** — AI at every layer, human oversight at every critical gate 
+**Zero-Trust** — Security-first, cost-governed, fully auditable 
+**High-Velocity** — Build fast without breaking things — automation is the multiplier 
+**Knowledge Capture** — Every project feeds the ecosystem
+ 
 ---
-
-## 📫 Find Me Elsewhere
-
-- **Twitter / X:** tbc  
-- **Mastodon:** tbc
-- **Blog:** tbc
+ 
+## ⭐ Curated Starred Projects
+ 
+| Repository | Why It Matters |
+|------------|---------------|
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Role-based autonomous AI agent orchestration |
+| [RichardHam-co-uk/ProjectLodestar](https://github.com/RichardHam-co-uk/ProjectLodestar) | LLM routing with 90% cost savings |
+| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | Autonomous AI research agents |
+| [MadaBurns/bv-vibesdk](https://github.com/MadaBurns/bv-vibesdk) | Open-source vibe coding on Cloudflare |
+| [MadaBurns/bv-mcp](https://github.com/MadaBurns/bv-mcp) | DNS & email security scanner via MCP |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | Claude Code best practices |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 100+ agentic skills and plugins |
+| [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook) | AI engineering reference |
+ 
+---
+ 
+## 📫 Contact & Links
+ 
 - **Location:** London, UK
-- **Experience:** 25+ years IT/Cybersecurity industry
-- **Current Role:** Vibecodr (AI-first independent developer)
-
+- **Experience:** 25+ years IT/Cybersecurity
+- **Portfolio Site:** [richardham.co.uk](https://richardham.co.uk)
+- **Org:** [RichardHam.co.uk](https://github.com/RichardHam-co-uk)
+- **Status:** Open to Fractional CISO / AI Architecture engagements
+ 
 ---
-
-> **"Open source is not a license, it's a philosophy."**  
-> The code above is a by-product of that philosophy – use it, break it, improve it.
-
+ 
+> *"The goal is not to automate everything — it's to automate everything that doesn't require a human."*
+ 
 ---
-
-*Last Updated: April 2, 2026*  
-*Portfolio managed via [control-tower](https://github.com/zebadee2kk/control-tower) system*
+*Last Updated: April 4, 2026 · Portfolio managed via [control-tower](https://github.com/zebadee2kk/control-tower)*
