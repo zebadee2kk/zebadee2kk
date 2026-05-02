@@ -11,7 +11,7 @@ I architect and build **intelligent operational systems** — combining zero-tru
  
 | Metric | Value |
 |--------|-------|
-| Total Repositories | 26 (14 public · 16 private) |
+| Total Repositories | 26 (10 public · 16 private) |
 | Active Projects | 18+ |
 | Primary Languages | Python · Shell · PowerShell · TypeScript |
 | Current Phase | Phase 4 – Advanced Orchestration & Studio Expansion |
@@ -25,7 +25,7 @@ I architect and build **intelligent operational systems** — combining zero-tru
 *GitHub-native control plane for AI-assisted projects*
  
 The central nervous system of the zebadee2kk ecosystem. Enforces WIP limits, decision gates, human-in-the-loop controls, and cost governance across all active projects.
-`Python` · Active · Open Issues: 5
+`Python` · Active · Open Issues: 9
  
 ### [HamOS](https://github.com/zebadee2kk/HamOS) 🔒
 *Secure-by-design personal operating environment*
@@ -53,7 +53,7 @@ M365 + local LLM + Azure OpenAI control plane for intelligent work prioritisatio
 *AI agent orchestration — n8n + Ollama + Docker*
  
 Full agent orchestration setup: n8n workflows, Ollama local LLM integration, and Docker Compose configs for running Claude agents in isolated VMs.
-`Shell` · MIT · Updated: Today
+`Shell` · MIT · Active
  
 ### [HeliOS-Studio](https://github.com/zebadee2kk/HeliOS-Studio)
 *Personal AI R&D Lab & one-person startup studio*
@@ -69,8 +69,8 @@ Collection of AI-driven workflow tools designed to radically compress developmen
 ### [ai-cost-tracker](https://github.com/zebadee2kk/ai-cost-tracker)
 *AI cost tracking & governance across multi-model API usage*
  
-Tracks token consumption, costs, and budgets across all projects and providers. 15 open issues tracking planned features.
-`Python` · MIT · Open Issues: 15
+Tracks token consumption, costs, and budgets across all projects and providers.
+`Python` · MIT · Open Issues: 9
  
 ### [zebra-ecosystem](https://github.com/zebadee2kk/zebra-ecosystem)
 *AI-powered Python ecosystem with security and cost control*
@@ -92,7 +92,7 @@ Automated repo scanning, project prioritization, and cross-repo coordination.
 *KYNEĒ — AI-assisted portable security assessment platform*
  
 Purpose-built for authorized penetration testing and red team operations. Portable, agent-assisted, built for consultants in the field.
-`Python` · Apache 2.0 · Open Issues: 8
+`Python` · Apache 2.0 · Open Issues: 6
  
 ### [sentinelforge](https://github.com/zebadee2kk/sentinelforge)
 *Secure containment platform for autonomous AI agents*
@@ -126,7 +126,7 @@ The foundational security architecture that underpins all personal and commercia
 *World News Hub — real-time news aggregation*
  
 AI-assisted news intelligence platform for aggregating and presenting global news.
-`TypeScript` · MIT · Open Issues: 2
+`TypeScript` · MIT · Open Issues: 1
  
 ### [website-development](https://github.com/zebadee2kk/website-development) 🔒
 *richardham.co.uk — Fractional CISO/IT portfolio site*
@@ -268,4 +268,4 @@ Deeply involved in the **[RichardHam.co.uk](https://github.com/RichardHam-co-uk)
 > *"The goal is not to automate everything — it's to automate everything that doesn't require a human."*
  
 ---
-*Last Updated: April 4, 2026 · Portfolio managed via [control-tower](https://github.com/zebadee2kk/control-tower)*
+*Last Updated: May 2, 2026 · Portfolio managed via [control-tower](https://github.com/zebadee2kk/control-tower)*
